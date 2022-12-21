@@ -66,3 +66,14 @@ body {
   color: #fff;
   grid-column: span 3;
 }
+
+
+.container .main {
+  display: flex;
+  flex-direction: column;
+  text-align: justify;
+}
+
+.container .main > h1 {
+  text-align: center;
+}
